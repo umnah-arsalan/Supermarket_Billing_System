@@ -1,0 +1,11 @@
+======= SUPERMARKET BILL =======
+Item                 Qty   Total     
+--------------------------------
+Shan Masala          2     200.00    
+Knorr chicken noodles 3     150.00    
+Olper's milk 100ml   4     280.00    
+--------------------------------
+Subtotal: 630.00
+Discount: 63.00
+Tax: 28.35
+GRAND TOTAL: 595.35
